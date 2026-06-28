@@ -1,0 +1,28 @@
+# Local IDE state
+.vs/
+
+# Operating-system metadata
+Thumbs.db
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Local Python state (the first security guard uses the standard library)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local reports and generated artifacts
+artifacts/
+reports/
