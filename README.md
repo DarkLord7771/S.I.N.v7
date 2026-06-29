@@ -9,8 +9,8 @@ The repository exists. The architecture has not yet earned validation.
 
 ## Current status
 
-- **Phase:** exploratory research and deterministic harness design
-- **Runtime:** none yet
+- **Phase:** first deterministic quaternion primitive evidence
+- **Runtime:** dependency-free quaternion math only; no model runtime
 - **Validated successor to S.I.N.v6:** no
 - **Central hypothesis:** quaternion callosal fusion may provide measurable
   value over individual streams and conventional fusion baselines
@@ -45,15 +45,25 @@ calibration, reproducibility, and bounded failure behavior.
 
 ## First implementation milestone
 
-Before model construction, the repository needs a deterministic quaternion
-property-test suite covering normalization, Hamilton products, log/exp maps,
-shortest-path SLERP, antipodal equivalence where applicable, batched/scalar
-parity, finite gradients, and checkpoint/restart equivalence.
+The first slice is now verified: normalization, Hamilton products, principal
+unit-quaternion log/exp round-trips, and shortest-path SLERP. The harness uses
+Node's built-in test runner, fixed seeds, and no third-party dependencies.
+
+```powershell
+npm run verify:quaternion
+```
+
+The command currently runs 8 tests over 1,280 generated property cases plus
+directed edge examples. It does not yet prove batched/scalar parity, finite
+gradients, checkpoint/restart equivalence, model integration, or learning
+value.
 
 ## Repository map
 
 - [v7.md](v7.md) — evidence ledger and provisional research thesis
 - [SOURCES.md](SOURCES.md) — provenance for external inspiration and references
+- `src/math/quaternion.js` — minimal scalar quaternion primitives
+- `test/quaternion.properties.test.js` — deterministic property evidence
 
 An original project image is being prepared separately.
 

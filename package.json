@@ -1,0 +1,14 @@
+{
+  "name": "sin-v7",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Evidence-first quaternion research harness for S.I.N.v7",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "verify:quaternion": "node --test test/quaternion.properties.test.js"
+  }
+}

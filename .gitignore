@@ -23,6 +23,10 @@ __pycache__/
 .venv/
 venv/
 
+# Local JavaScript state
+node_modules/
+coverage/
+
 # Local reports and generated artifacts
 artifacts/
 reports/
