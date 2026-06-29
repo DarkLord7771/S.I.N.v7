@@ -81,5 +81,11 @@ capabilities.
 
 ## License
 
-No license has been selected yet. The repository is publicly visible, but
-reuse terms have not been granted.
+S.I.N.v7 is source-available for noncommercial research; it is not open source.
+The license permits research, teaching, personal experimentation, independent
+validation, reproducibility work, and security review—including running,
+testing, benchmarking, modifying, and sharing the materials under the same
+terms. Production, internal business use, monetized or competitive offerings,
+and commercial AI training require a separate written commercial license,
+ordinarily with a minimum payment and negotiated gross-revenue share. See
+[LICENSE](LICENSE) and contact the repository owner to discuss commercial terms.

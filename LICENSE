@@ -1,0 +1,138 @@
+S.I.N.v7 NONCOMMERCIAL RESEARCH LICENSE 1.0
+
+Copyright (c) 2026 the S.I.N.v7 repository owner and contributors.
+All rights reserved except as expressly stated below.
+
+This is a source-available license for noncommercial research. It is not an
+open-source or free-software license. Commercial licenses are available only
+under a separate written agreement.
+
+1. Definitions
+
+"Materials" means the source code, documentation, model artifacts, data,
+images, and other copyrightable material made available in this repository,
+except material that identifies separate license terms.
+
+"Licensor" means a copyright or patent owner of the Materials or a party
+authorized to license them.
+
+"Repository Owner" means the owner of the canonical public repository from
+which this license is distributed.
+
+"Noncommercial Research Purpose" means public-interest or academic research,
+teaching, personal experimentation, independent validation, reproducibility
+work, or security review, in each case without Commercial Use.
+
+"Commercial Use" means use that is intended for or directed toward commercial
+advantage, monetary compensation, or material business benefit. It includes
+use:
+
+a. by or for a for-profit entity, or in research sponsored by a for-profit
+   entity when that entity receives preferential access, rights, or benefit;
+b. in production, internal business operations, or a customer-facing system;
+c. to develop, provide, support, sell, license, rent, monetize, or market a
+   product or service, including a hosted service or application programming
+   interface;
+d. to develop or provide a product or service that substitutes for or competes
+   with the Materials or an offering based on them; or
+e. to train, fine-tune, evaluate, or supply context to an artificial-
+   intelligence or machine-learning system that is offered commercially or is
+   intended to support Commercial Use.
+
+"You" means the individual or legal entity exercising a permission under this
+license.
+
+2. Noncommercial research grant
+
+Subject to this license, each Licensor grants You a worldwide, royalty-free,
+non-exclusive, non-transferable, and non-sublicensable license under copyright
+to use, reproduce, execute, test, benchmark, study, validate, and modify the
+Materials; create derivative works; and distribute copies or modifications,
+solely for a Noncommercial Research Purpose.
+
+You may publish research findings, measurements, criticism, and reasonable
+excerpts needed to explain or reproduce those findings. This license does not
+require findings or modifications to be published.
+
+3. Conditions on distribution
+
+If You distribute any Materials or modifications under Section 2, You must:
+
+a. include this license and all copyright, attribution, and provenance notices;
+b. identify material modifications You made;
+c. distribute the Materials and modifications only under this license and
+   without granting broader rights; and
+d. provide the complete corresponding source with any executable or other
+   non-source form.
+
+You may not impose a fee other than reasonable, documented costs of physically
+providing a copy.
+
+4. Limited patent grant
+
+Solely for a Noncommercial Research Purpose, each Licensor grants You a
+worldwide, royalty-free, non-exclusive, non-transferable, and non-sublicensable
+patent license under claims the Licensor can license that are necessarily
+infringed by exercising the rights in Section 2 with the Materials as provided.
+
+This patent license terminates immediately if You or Your organization alleges
+in writing that the Materials or a contribution to them infringes a patent.
+No patent rights are granted for Commercial Use.
+
+5. Commercial license required
+
+Commercial Use is not licensed under these terms. It requires a separate
+written agreement signed by the Repository Owner or each applicable Licensor
+before that use begins.
+
+Commercial terms will ordinarily include a nonrefundable upfront fee or annual
+minimum payment plus a negotiated share of attributable gross revenue, together
+with reporting, payment, and audit terms. Different written terms may be agreed
+for a particular license.
+
+An intention, offer, or unilateral decision to pay or share revenue does not
+grant permission. No trial, evaluation, or other commercial right is implied.
+
+6. Contributions
+
+Contributions submitted to this repository are subject to CONTRIBUTING.md and
+this license unless a separate written agreement applies.
+
+7. Third-party material
+
+This license does not replace or override the terms for third-party material.
+You are responsible for identifying and complying with those terms.
+
+8. Other rights
+
+No trademark, trade-name, publicity, or other intellectual-property license is
+granted except for the express copyright and patent grants above. All other
+rights are reserved.
+
+Rights granted directly by the repository hosting service under its terms are
+governed solely by those terms. They do not expand this license.
+
+This license does not limit fair use, fair dealing, or another right that
+applicable law makes nonwaivable. Copyright does not protect facts, ideas, or
+methods as such.
+
+9. Acceptance and termination
+
+By exercising a permission granted here, You accept this license. All
+permissions terminate automatically if You breach its conditions. On
+termination, You must stop using and distributing the Materials and delete
+retained copies to the extent permitted by law and technically practicable.
+The applicable Licensor may reinstate permissions in writing.
+
+10. Disclaimer of warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE MATERIALS ARE PROVIDED "AS IS" AND
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+11. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NO LICENSOR WILL BE LIABLE FOR ANY
+DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING
+FROM THE MATERIALS OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.

@@ -44,3 +44,19 @@ python scripts/security/repository_guard.py --root . --history
 ## Security reports
 
 Do not open a public issue for a vulnerability. Follow [SECURITY.md](SECURITY.md).
+
+## Licensing contributions
+
+The [license](LICENSE) permits copying, running, testing, modifying, and sharing
+repository materials to prepare and validate contributions for noncommercial
+research. It does not authorize production, internal business use, commercial
+AI training, or another commercial use.
+
+By submitting a contribution, you represent that you have the right to submit
+it and grant the repository owner a worldwide, perpetual, irrevocable,
+non-exclusive, royalty-free, transferable, and sublicensable license under
+applicable copyright and patent rights to use, reproduce, modify, distribute,
+make, have made, sell, offer for sale, import, and otherwise exploit the
+contribution for any purpose, including commercial licensing. You agree that
+the contribution may be distributed publicly under the repository's license.
+Do not submit a contribution if you cannot grant these rights.

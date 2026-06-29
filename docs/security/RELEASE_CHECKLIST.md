@@ -11,7 +11,10 @@ first one and every release thereafter.
 - [ ] Required tests, type checks, linters, and security checks pass.
 - [ ] No absolute workstation paths, private metadata, secrets, or temporary
       artifacts are present.
-- [ ] A project license has been selected and all included material is compatible.
+- [ ] `LICENSE` is present; the licensor identity and commercial contact path
+      are current.
+- [ ] Every included contribution and third-party component has terms compatible
+      with noncommercial research distribution and commercial sublicensing.
 
 ## Dependencies and automation
 
